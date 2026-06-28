@@ -1,2 +1,14 @@
 # Geostrata_1070
-GeoStrata_1070: A geological-prior-guided stratigraphic cross-section image database
+
+GeoStrata_1070 is a geological-prior-guided stratigraphic cross-section image database for subsurface reconstruction studies.
+
+## Dataset contents
+
+- `training set/`: 856 geological cross-section images
+- `testing set/`: 214 geological cross-section images
+
+All images are provided as stratigraphic cross-section images and can be used to construct training and validation sets for sparse-borehole-constrained reconstruction experiments.
+
+## Data availability statement
+
+The GeoStrata_1070 dataset used in this study is publicly available in this repository. It contains the geological cross-section images used to construct the training and validation sets in this work.
